@@ -6,7 +6,7 @@ int main ()
 {
     int integerA = 1;
     float floatA = 1.1;
-    char letterA = "A";
+    char letterA = 'A';
     bool boolean = false;
     return 0;
 }
