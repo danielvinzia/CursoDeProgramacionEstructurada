@@ -16,7 +16,7 @@ int main()
     {
         printf("No se va a cumplir esta condicion");
     }
-    else if (valA == valB)
+    else if (valA == valC)
     {
         printf("Tampoco se va a a cumplir esta");
     }
